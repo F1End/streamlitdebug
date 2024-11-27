@@ -30,7 +30,7 @@ display = st.empty()
 print(display)
 
 # workaround: move next row "fake_display" from comment to code
-fake_display = st.empty()
+# fake_display = st.empty()
 while True:
     current_time = datetime.now().strftime("%H:%M:%S")
     display.metric("Current time", current_time)
