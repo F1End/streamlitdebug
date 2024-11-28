@@ -1,5 +1,5 @@
 """Simple application to demonstrate issue
-Run mian.py to load this file locally."""
+Run main.py to load this file locally."""
 
 import streamlit as st
 from datetime import datetime
